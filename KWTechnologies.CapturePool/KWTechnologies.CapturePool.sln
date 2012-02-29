@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KWTechnologies.CapturePool.Core", "KWTechnologies.CapturePool.Core\KWTechnologies.CapturePool.Core.csproj", "{482C149B-46FE-407B-8ECB-D16BCDEB8F3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KWTechnologies.CapturePool.EntityFramework", "KWTechnologies.CapturePool.EntityFramework\KWTechnologies.CapturePool.EntityFramework.csproj", "{5B954D49-4004-407A-B3D5-24A6773FE3BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{482C149B-46FE-407B-8ECB-D16BCDEB8F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482C149B-46FE-407B-8ECB-D16BCDEB8F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482C149B-46FE-407B-8ECB-D16BCDEB8F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B954D49-4004-407A-B3D5-24A6773FE3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B954D49-4004-407A-B3D5-24A6773FE3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B954D49-4004-407A-B3D5-24A6773FE3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B954D49-4004-407A-B3D5-24A6773FE3BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
